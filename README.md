@@ -31,5 +31,10 @@ Olá, me chamo Everton, tenho 22 anos e sou natural de São Paulo. Sou graduando
 <img 
     align="left"
     width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+    align="left"
+    width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />         
