@@ -15,6 +15,8 @@ Olá, me chamo Everton, tenho 22 anos e sou natural de São Paulo. Sou graduando
 
 ---
 
+**Linguagens e tecnologias**
+
 <img
     align="left"
     width="30px"
