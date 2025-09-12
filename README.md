@@ -1,6 +1,3 @@
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 ## Everton Rodrigues
 
 **`Desenvolvedor Backend`**
@@ -17,3 +14,8 @@ Olá, me chamo Everton, tenho 22 anos e sou natural de São Paulo. Sou graduando
 </a>
 
 ---
+
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+</div>      
+          
