@@ -8,8 +8,8 @@ Olá, me chamo Everton, tenho 22 anos e sou natural de São Paulo. Estou me grad
     <img
         alt="Meu perfil no Linkedin"
         title="Linkedin"
-        src="https://i.ibb.co/x8Jxc00Q/Design-sem-nome-3.png"
-        style="width: 200px;" 
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        style="width: 100px;" 
     />
 </a>
 
