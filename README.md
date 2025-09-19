@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Olá, me chamo Everton, tenho 22 anos e sou natural de São Paulo. Sou graduando em Análise e Desenvolvimento de Sistemas pela Universidade Luterana do Brasil (ULBRA) e tenho me dedicado no contexto da programação almejando me tornar um desenvolvedor backend. 
+Olá, me chamo Everton, tenho 22 anos e sou natural de São Paulo. Estou me graduando em Análise e Desenvolvimento de Sistemas pela Universidade Luterana do Brasil (ULBRA). Tenho me dedicado no contexto da programação almejando me tornar um desenvolvedor backend. 
 
 <a  href="https://www.linkedin.com/in/evertonrodrigues10/">
     <img
