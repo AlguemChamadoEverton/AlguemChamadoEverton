@@ -1,6 +1,6 @@
 ## Everton Rodrigues
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor Fullstack`**
 
 Sou estudante do 5º semestre de Engenharia de Software na Universidade Federal de Rondonópolis. Diariamente aprimoro meu conhecimento na área com foco no desenvolvimento Fullstack.
 
