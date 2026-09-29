@@ -31,10 +31,5 @@ Sou estudante do 5º semestre de Engenharia de Software na Universidade Federal 
 <img 
     align="left"
     width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
-    align="left"
-    width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />         
