@@ -2,8 +2,7 @@
 
 **`Desenvolvedor de Software | Full Stack`**
 
-Tenho experiência com desenvolvimento de aplicações web completas, do banco de dados à interface. Antes da programação, trabalhei quatro anos operando sistemas ERP e treinando funcionários, o que me ajuda a entender como um sistema é usado no dia a dia.
-
+Tenho experiência com desenvolvimento de aplicações web completas, do banco de dados à interface.
 Curso Engenharia de Software na Universidade Federal de Rondonópolis e busco minha primeira oportunidade na área de desenvolvimento de software.
 
 <a href="https://www.linkedin.com/in/evertonrodrigues10/">
